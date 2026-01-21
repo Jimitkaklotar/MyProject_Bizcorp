@@ -5,7 +5,7 @@ import img3 from "../assets/p3.png";
 import img4 from "../assets/p4.png";
 import img5 from "../assets/p5.png";
 import img6 from "../assets/p6.png";
-import TrendingUp from "../assets/Trending.png";
+import TrendingUp from "../assets/trending.png";
 
 import leftImg from '../assets/left-team.png';
 import rightImg from '../assets/right-bulb.png';
